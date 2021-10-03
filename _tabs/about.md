@@ -5,7 +5,6 @@ order: 4
 ---
 
 
-# About Me
 _pronouns: he/him_
 
 I work in big tech as an engineer, solving enterprise problems.
